@@ -2,7 +2,6 @@ import { useEffect, useState } from "react";
 
 export default function Pokemon() {
   const pokeApi = "https://pokeapi.co/api/v2/";
-  const myApi = "https://napokemon.herokuapp.com/pokemon";
   const [pokemons, setPokemons] = useState([]);
 
   useEffect(
