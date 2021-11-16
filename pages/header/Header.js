@@ -18,17 +18,17 @@ function Header() {
             </Link>
           </li>
           <li>
-            <Link className="link-home" href="/pokemonSSR">
+            <Link className="link-home" href="/pokemonssr">
               PokemonSSR
             </Link>
           </li>
           <li>
-            <Link className="link-home" href="/pokemonSSG">
+            <Link className="link-home" href="/pokemonssg">
               PokemonSSG
             </Link>
           </li>
           <li>
-            <Link className="link-home" href="/pokemonISR">
+            <Link className="link-home" href="/pokemonisr">
               PokemonISR
             </Link>
           </li>
