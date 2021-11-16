@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  display: none;
+}
+
+.image-title {
+  height: 142px;
+  width: 1197px;
+  background-image: url("https://fontmeme.com/permalink/211116/b2119a97e776b252c72017338d192c4b.png");
+  transform: scale(0.7);
+}
+
+.header ul {
+  margin-top: 25px;
+  width: 800px;
+  display: flex;
+  justify-content: space-between;
+  font-size: large;
+}
+
+.header ul li {
+  list-style: none;
+}
+
+.home-container {
+  margin-top: 50px;
+  width: ;
+  display: flex;
+  justify-content: center;
+}
